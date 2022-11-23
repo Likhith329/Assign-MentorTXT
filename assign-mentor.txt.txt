@@ -1,0 +1,9 @@
+Frontend Source Code Url - https://github.com/Likhith329/assign-mentorFE.git
+
+Frontend Deployed Url -  Netlify - https://assign-mentor-studentapp.netlify.app
+
+                         Github Pages - https://likhith329.github.io/assign-mentorFE/
+
+Backend Source Code Url - https://github.com/Likhith329/assign-mentor.git
+
+Backend Deployed Url - https://assign-mentorapp.herokuapp.com/
